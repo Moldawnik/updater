@@ -1,0 +1,10 @@
+{
+  "version": "3.0b",
+  "folders": [
+    "mods",
+    "config",
+    "resourcepacks",
+    "CustomSkinLoader"
+  ],
+  "update_info_url": "https://raw.githubusercontent.com/Moldawnik/updater/main/update_info.json"
+}
