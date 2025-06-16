@@ -1,0 +1,23 @@
+{
+  "version": "3.0b",
+  "changelog": "Добавлен мод Sodium, обновлены настройки.",
+  "mods": {
+    "add": [
+      {
+        "name": "sodium.jar",
+        "url": "https://github.com/ТВОЙ_РЕПО/ПУТЬ/updater/updates/mods/sodium.jar"
+      }
+    ],
+    "remove": [
+      "oldmod.jar"
+    ]
+  },
+  "config": {
+    "update": [
+      {
+        "name": "config.toml",
+        "url": "https://github.com/ТВОЙ_РЕПО/ПУТЬ/updater/updates/config/config.toml"
+      }
+    ]
+  }
+}
