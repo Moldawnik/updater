@@ -1,0 +1,41 @@
+# Don't change this! Version used to track needed updates.
+version = 0
+biomeColorRain = true
+biomeParticlesRadius = 22
+mushroomSporeBiomes = [
+    "minecraft:mushroom_fields",
+    "twilightforest:mushroom_forest",
+    "galosphere:lichen_caves",
+    "galosphere:lichen_caves",
+    "galosphere:lichen_caves"
+]
+mushroomSporeDensity = 17
+fireflyBiomes = [
+    "minecraft:swamp",
+    "minecraft:mangrove_swamp",
+    "galosphere:crystal_canyons",
+    "galosphere:crystal_canyons",
+    "twilightforest:mushroom_forest",
+    "twilightforest:fire_swamp",
+    "galosphere:crystal_canyons",
+    "twilightforest:forest"
+]
+fireflyDensity = 3
+pollenBiomes = [
+    "minecraft:flower_forest",
+    "minecraft:sunflower_plains",
+    "undergarden:forgotten_fields",
+    "wwoo:glowshroom_meadow",
+    "wwoo:blossom_fields",
+    "twilightforest:twilight_stream",
+    "twilightforest:twilight_clearings"
+]
+pollenDensity = 50
+sculkDustBiomes = [
+    "minecraft:deep_dark",
+    "deeperdarker:echoing_caves",
+    "deeperdarker:gloomy_caverns",
+    "deeperdarker:sculk_swamp",
+    "undergarden:depths"
+]
+sculkDustDensity = 17

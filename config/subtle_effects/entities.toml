@@ -1,0 +1,118 @@
+# Don't change this! Version used to track needed updates.
+version = 0
+enderPearlTrail = true
+snowballTrailDensity = 0.5
+allayMagicDensity = 0.2
+vexMagicDensity = 0.2
+sheepShearFluff = true
+improvedDragonFireballTrail = true
+commandBlockMinecartParticles = "ON"
+endCrystalParticles = true
+minecartSparksDisplayType = "DEFAULT"
+minecartSparksDensity = 0.3907433
+slimeTrails = true
+magmaCubeTrails = true
+replaceSlimeSquishParticles = true
+replaceOozingEffectParticles = true
+replaceSpellCasterParticles = true
+ironGolemCrackParticles = true
+spectralArrowParticles = true
+wardenDeathSoulParticles = true
+xpBottleParticlesDisplayType = "BOTH"
+xpBottleParticlesDensity = 10
+eggSmashSoundVolume = 0.5
+freezingSnowFlakes = true
+
+[attacked]
+chickenFeathers = true
+parrotFeathers = true
+snowGolemSnowflakes = true
+
+[sleeping]
+playerSnoreChance = 0.645719334245326
+playerSnoreSoundVolume = 0.24691063
+playersHaveSleepingZs = true
+villagerSnoreChance = 1.0
+villagerSnoreSoundVolume = 0.3417094
+villagersHaveSleepingZs = true
+foxesHaveSleepingZs = true
+batsHaveSleepingZs = true
+catsHaveSleepingZs = true
+otherMobsHaveSleepingZs = true
+displaySleepingZsOnlyWhenSnoring = false
+adjustNameTagWhenSleeping = true
+
+[humanoids]
+drowningBubblesDisplayType = "DEFAULT"
+drowningBubblesDensity = 11
+drowningBubbleAlpha = 0.8996352
+potionRingsDisplayType = "DEFAULT"
+potionRingsParticleType = "BOTH"
+NPCsHavePotionRings = true
+
+[humanoids.frostyBreath]
+displayType = "DEFAULT"
+alpha = 0.39229822
+waitTime = 120
+seasons = "WINTER_ONLY"
+additionalBiomes = [
+    "minecraft:snowy_plains",
+    "minecraft:snowy_taiga",
+    "minecraft:snowy_beach",
+    "minecraft:snowy_slopes",
+    "minecraft:frozen_peaks",
+    "minecraft:grove",
+    "minecraft:jagged_peaks",
+    "minecraft:ice_spikes",
+    "minecraft:frozen_river",
+    "minecraft:frozen_ocean",
+    "minecraft:deep_frozen_ocean",
+    "minecraft:cold_ocean",
+    "minecraft:deep_cold_ocean",
+    "twilightforest:snowy_forest"
+]
+
+[humanoids.player]
+stomachGrowlingThreshold = 6
+stomachGrowlingVolume = 0.5999544
+stomachGrowlingWaitTime = 30
+heartBeatingThreshold = 6
+heartbeatVolume = 1.0
+heartBeatingWaitTime = 2
+
+[dustClouds]
+scale = 1.3901248
+alpha = 0.8046332
+preventWhenRaining = false
+flyIntoWall = true
+lessViewBlocking = false
+playerFell = true
+mobFell = true
+landMaceAttack = true
+playerRunning = false
+mobRunning = false
+playerRunningRequiresSpeed = true
+
+[burning]
+smoke = "DEFAULT"
+flames = true
+sparks = true
+sounds = true
+extinguishSteam = true
+
+[itemRarity]
+particlesDisplayType = "OFF"
+particleColorType = "NAME_COLOR"
+mixedColorName = true
+useItemBorder = true
+colorOverrides = [  ]
+particleMaxHeight = 1.0
+particleMaxSpeed = 1.0
+particleDensity = 1.0
+
+[explosives]
+tntUpdateSmoke = true
+tntFlamesDensity = 2
+tntSparks = true
+creeperSmoke = "UPDATED"
+creeperSparks = true
