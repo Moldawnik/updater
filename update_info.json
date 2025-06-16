@@ -7,9 +7,6 @@
         "name": "sodium.jar",
         "url": "https://github.com/ТВОЙ_РЕПО/ПУТЬ/updater/updates/mods/sodium.jar"
       }
-    ],
-    "remove": [
-      "oldmod.jar"
     ]
   },
   "config": {
