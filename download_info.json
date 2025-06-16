@@ -1,10 +1,20 @@
 {
-  "version": "3.0b",
-  "folders": [
-    "mods",
-    "config",
-    "resourcepacks",
-    "CustomSkinLoader"
-  ],
-  "update_info_url": "https://raw.githubusercontent.com/Moldawnik/updater/main/update_info.json"
+  "archives": [
+    {
+      "path": "mods",
+      "url": "https://disk.yandex.by/d/61m9PNWwNXriNA"
+    },
+    {
+      "path": "config",
+      "url": "https://disk.yandex.by/d/qxyb7-ufyXSsxg"
+    },
+    {
+      "path": "resourcepacks",
+      "url": "https://disk.yandex.by/d/eFQF0pqNWT4wPw"
+    },
+    {
+      "path": "CustomSkinLoader",
+      "url": "https://disk.yandex.by/d/Q9nEv5310ck9wQ"
+    }
+  ]
 }
