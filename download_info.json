@@ -2,19 +2,24 @@
   "archives": [
     {
       "path": "mods",
-      "url": "https://disk.yandex.by/d/61m9PNWwNXriNA"
+      "url": "https://downloader.disk.yandex.ru/disk/0239487721fc5ce7484f4f874e6556cf78771791b89312bd0f37eac36eea52c5/6850b919/drpSTBK3gYHL33IZ5tZJhJf0DCdzBUvf7ZrovhWtTv08_BSF9J1a8UO7MUBFjtHyHBBCjqCn29V5gHIBhYvzAw%3D%3D?uid=0&filename=mods.zip&disposition=attachment&hash=&limit=0&content_type=application%2Fzip&owner_uid=0&fsize=590522458&hid=37dd258714fd8606d0cc1e25814b0a80&media_type=compressed&tknv=v3&etag=7b3da505922467dc6fed67a1472b5628"
     },
     {
       "path": "config",
-      "url": "https://disk.yandex.by/d/qxyb7-ufyXSsxg"
+      "url": "https://downloader.disk.yandex.ru/disk/c5d24bc3b5dcc12f65b38c334132f01ce716878a9bb9c03e2851ff6ec69c822e/6850b94a/drpSTBK3gYHL33IZ5tZJhEegbx4jAc3B_0EAztChB4j-GxEOnFe2V7uMJqKI-eqG0eiMlTloIdZKOyRvV3JsDA%3D%3D?uid=0&filename=config.zip&disposition=attachment&hash=&limit=0&content_type=application%2Fzip&owner_uid=0&fsize=497198&hid=ac52a9c9e4d54d59ffc2b06326ea6ea3&media_type=compressed&tknv=v3&etag=76efd83133213c10e588608721c08972"
     },
     {
       "path": "resourcepacks",
-      "url": "https://disk.yandex.by/d/eFQF0pqNWT4wPw"
+      "url": "https://downloader.disk.yandex.ru/disk/b734d0d04cd89b5d22f91836621578c53e9481861ef9de7bb06350c752f00fbf/6850b9cd/drpSTBK3gYHL33IZ5tZJhEYOlTtmru1xhPezZA5CdZaQiUr6yjxsE1A7SMBS-vplDFCZCUsiCAN8ZRroYU0Kdw%3D%3D?uid=0&filename=resourcepacks.zip&disposition=attachment&hash=&limit=0&content_type=application%2Fzip&owner_uid=0&fsize=1289420&hid=c87cb873737c22e989da7b6643920740&media_type=compressed&tknv=v3&etag=c7db2d89ac5f48e4c9ef2d14ef1e9c83"
     },
     {
       "path": "CustomSkinLoader",
-      "url": "https://disk.yandex.by/d/Q9nEv5310ck9wQ"
+      "url": "https://downloader.disk.yandex.ru/disk/af2d486d14d69ab29d2ef20028180d7235621292f18763dd126227ea3b05186a/6850b9a3/drpSTBK3gYHL33IZ5tZJhKpYcud3R0V625vSiWSDw4NCzPQapcvCagmqDr8kssEJSgUD5X5YiCJcBQLilQpk_w%3D%3D?uid=0&filename=CustomSkinLoader.zip&disposition=attachment&hash=&limit=0&content_type=application%2Fzip&owner_uid=0&fsize=27866&hid=a6432ca87098a26da558450f321cd5aa&media_type=compressed&tknv=v3&etag=224b84011f14a035598cad605f5fb00a"
+    },
+    {
+      "path": ".updater",
+      "url": "https://raw.githubusercontent.com/Moldawnik/updater/refs/heads/main/update_info.json",
+      "filename": "update_info.json"
     }
   ]
 }
